@@ -13,7 +13,7 @@ namespace baitap
     {
         public static void Main(string[] args)
         {
-            int a;
+            
             Baitap bt = new Baitap();
             int? t = null;
             if (t.HasValue)
@@ -21,7 +21,7 @@ namespace baitap
             else
                 System.Console.WriteLine("null");
 
-            
+        
         }
     }
 }

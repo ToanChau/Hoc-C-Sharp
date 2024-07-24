@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lamda", "lamda.csproj", "{62A074DC-76D7-49D0-9178-38626545FDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A074DC-76D7-49D0-9178-38626545FDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A074DC-76D7-49D0-9178-38626545FDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A074DC-76D7-49D0-9178-38626545FDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A074DC-76D7-49D0-9178-38626545FDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7FD1EC9-7A98-40A2-9193-AD6B4F8B566B}
+	EndGlobalSection
+EndGlobal

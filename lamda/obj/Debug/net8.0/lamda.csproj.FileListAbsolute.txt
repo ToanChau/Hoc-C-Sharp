@@ -1,0 +1,15 @@
+D:\Workspace\C#\baitap\lamda\obj\Debug\net8.0\lamda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\baitap\lamda\obj\Debug\net8.0\lamda.AssemblyInfoInputs.cache
+D:\Workspace\C#\baitap\lamda\obj\Debug\net8.0\lamda.AssemblyInfo.cs
+D:\Workspace\C#\baitap\lamda\obj\Debug\net8.0\lamda.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\baitap\lamda\obj\Debug\net8.0\lamda.sourcelink.json
+D:\Workspace\C#\baitap\lamda\bin\Debug\net8.0\lamda.exe
+D:\Workspace\C#\baitap\lamda\bin\Debug\net8.0\lamda.deps.json
+D:\Workspace\C#\baitap\lamda\bin\Debug\net8.0\lamda.runtimeconfig.json
+D:\Workspace\C#\baitap\lamda\bin\Debug\net8.0\lamda.dll
+D:\Workspace\C#\baitap\lamda\bin\Debug\net8.0\lamda.pdb
+D:\Workspace\C#\baitap\lamda\obj\Debug\net8.0\lamda.dll
+D:\Workspace\C#\baitap\lamda\obj\Debug\net8.0\refint\lamda.dll
+D:\Workspace\C#\baitap\lamda\obj\Debug\net8.0\lamda.pdb
+D:\Workspace\C#\baitap\lamda\obj\Debug\net8.0\lamda.genruntimeconfig.cache
+D:\Workspace\C#\baitap\lamda\obj\Debug\net8.0\ref\lamda.dll

@@ -1,0 +1,15 @@
+D:\Workspace\C#\baitap\delegate\obj\Debug\net8.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\baitap\delegate\obj\Debug\net8.0\delegate.AssemblyInfoInputs.cache
+D:\Workspace\C#\baitap\delegate\obj\Debug\net8.0\delegate.AssemblyInfo.cs
+D:\Workspace\C#\baitap\delegate\obj\Debug\net8.0\delegate.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\baitap\delegate\obj\Debug\net8.0\delegate.sourcelink.json
+D:\Workspace\C#\baitap\delegate\bin\Debug\net8.0\delegate.exe
+D:\Workspace\C#\baitap\delegate\bin\Debug\net8.0\delegate.deps.json
+D:\Workspace\C#\baitap\delegate\bin\Debug\net8.0\delegate.runtimeconfig.json
+D:\Workspace\C#\baitap\delegate\bin\Debug\net8.0\delegate.dll
+D:\Workspace\C#\baitap\delegate\bin\Debug\net8.0\delegate.pdb
+D:\Workspace\C#\baitap\delegate\obj\Debug\net8.0\delegate.dll
+D:\Workspace\C#\baitap\delegate\obj\Debug\net8.0\refint\delegate.dll
+D:\Workspace\C#\baitap\delegate\obj\Debug\net8.0\delegate.pdb
+D:\Workspace\C#\baitap\delegate\obj\Debug\net8.0\delegate.genruntimeconfig.cache
+D:\Workspace\C#\baitap\delegate\obj\Debug\net8.0\ref\delegate.dll

@@ -77,6 +77,7 @@ namespace baitap
                     giaithua *= i;
                 }
                 return giaithua;
+                
             }
         }
         public string Chuyenhe10sangheB(int n, int b)
