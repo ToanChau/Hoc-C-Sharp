@@ -1,0 +1,15 @@
+D:\Workspace\C#\baitap\bin\Debug\net8.0\baitap.exe
+D:\Workspace\C#\baitap\bin\Debug\net8.0\baitap.deps.json
+D:\Workspace\C#\baitap\bin\Debug\net8.0\baitap.runtimeconfig.json
+D:\Workspace\C#\baitap\bin\Debug\net8.0\baitap.dll
+D:\Workspace\C#\baitap\bin\Debug\net8.0\baitap.pdb
+D:\Workspace\C#\baitap\obj\Debug\net8.0\baitap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\baitap\obj\Debug\net8.0\baitap.AssemblyInfoInputs.cache
+D:\Workspace\C#\baitap\obj\Debug\net8.0\baitap.AssemblyInfo.cs
+D:\Workspace\C#\baitap\obj\Debug\net8.0\baitap.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\baitap\obj\Debug\net8.0\baitap.dll
+D:\Workspace\C#\baitap\obj\Debug\net8.0\refint\baitap.dll
+D:\Workspace\C#\baitap\obj\Debug\net8.0\baitap.pdb
+D:\Workspace\C#\baitap\obj\Debug\net8.0\baitap.genruntimeconfig.cache
+D:\Workspace\C#\baitap\obj\Debug\net8.0\ref\baitap.dll
+D:\Workspace\C#\baitap\obj\Debug\net8.0\baitap.sourcelink.json
