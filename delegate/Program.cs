@@ -17,11 +17,27 @@ namespace Delegate
             System.Console.WriteLine(message);
             Console.ResetColor();
         }
+        static void CallWrite(string message,Callback call)
+        {
+            System.Console.WriteLine("gọi từ CallWrite: ");
+            call(message);
+        }
+        static string goituFunc(string message) => message;
         static void Main(string[] args)
         {
             Callback callback = missedcall;
-            
-            callback.Invoke("hello");
+            CallWrite("hello",callback);
+            //hoặc
+            CallWrite("hello",completedcall);//truyền thẳng phương thức có kiểu trả về giống delegate
+
+            //Action không trả về  hoặc void
+            Action<string> call = new Action<string>(completedcall);
+            call.Invoke("gọi từ Action");
+
+            // Func trả về kiểu cuối cùng
+            Func<string ,string> callfromfunc = goituFunc;
+
+            System.Console.WriteLine($"GOI TU callfromfunc {callfromfunc("hello")}");
 
         }
     }
