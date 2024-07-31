@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Phương thức mở rộng (extension method)/1.0.0": {
+        "runtime": {
+          "Phương thức mở rộng (extension method).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phương thức mở rộng (extension method)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

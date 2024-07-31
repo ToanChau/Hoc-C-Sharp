@@ -1,0 +1,15 @@
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\bin\Debug\net8.0\Phương thức mở rộng (extension method).exe
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\bin\Debug\net8.0\Phương thức mở rộng (extension method).deps.json
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\bin\Debug\net8.0\Phương thức mở rộng (extension method).runtimeconfig.json
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\bin\Debug\net8.0\Phương thức mở rộng (extension method).dll
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\bin\Debug\net8.0\Phương thức mở rộng (extension method).pdb
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\obj\Debug\net8.0\Phương thức mở rộng (extension method).GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\obj\Debug\net8.0\Phương thức mở rộng (extension method).AssemblyInfoInputs.cache
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\obj\Debug\net8.0\Phương thức mở rộng (extension method).AssemblyInfo.cs
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\obj\Debug\net8.0\Phương thức mở rộng (extension method).csproj.CoreCompileInputs.cache
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\obj\Debug\net8.0\Phương thức mở rộng (extension method).sourcelink.json
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\obj\Debug\net8.0\Phương thức mở rộng (extension method).dll
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\obj\Debug\net8.0\refint\Phương thức mở rộng (extension method).dll
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\obj\Debug\net8.0\Phương thức mở rộng (extension method).pdb
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\obj\Debug\net8.0\Phương thức mở rộng (extension method).genruntimeconfig.cache
+D:\Workspace\C#\baitap\Phương thức mở rộng (extension method)\obj\Debug\net8.0\ref\Phương thức mở rộng (extension method).dll
