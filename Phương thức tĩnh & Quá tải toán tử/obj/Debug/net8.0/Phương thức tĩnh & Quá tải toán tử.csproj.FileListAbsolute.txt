@@ -1,0 +1,15 @@
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\bin\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.exe
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\bin\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.deps.json
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\bin\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.runtimeconfig.json
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\bin\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.dll
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\bin\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.pdb
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\obj\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\obj\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.AssemblyInfoInputs.cache
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\obj\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.AssemblyInfo.cs
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\obj\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\obj\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.sourcelink.json
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\obj\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.dll
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\obj\Debug\net8.0\refint\Phương thức tĩnh & Quá tải toán tử.dll
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\obj\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.pdb
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\obj\Debug\net8.0\Phương thức tĩnh & Quá tải toán tử.genruntimeconfig.cache
+D:\Workspace\C#\baitap\Phương thức tĩnh & Quá tải toán tử\obj\Debug\net8.0\ref\Phương thức tĩnh & Quá tải toán tử.dll
