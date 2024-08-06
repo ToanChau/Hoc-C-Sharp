@@ -1,0 +1,15 @@
+D:\Workspace\C#\baitap\Lỗi Exception\bin\Debug\net8.0\Lỗi Exception.exe
+D:\Workspace\C#\baitap\Lỗi Exception\bin\Debug\net8.0\Lỗi Exception.deps.json
+D:\Workspace\C#\baitap\Lỗi Exception\bin\Debug\net8.0\Lỗi Exception.runtimeconfig.json
+D:\Workspace\C#\baitap\Lỗi Exception\bin\Debug\net8.0\Lỗi Exception.dll
+D:\Workspace\C#\baitap\Lỗi Exception\bin\Debug\net8.0\Lỗi Exception.pdb
+D:\Workspace\C#\baitap\Lỗi Exception\obj\Debug\net8.0\Lỗi Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\baitap\Lỗi Exception\obj\Debug\net8.0\Lỗi Exception.AssemblyInfoInputs.cache
+D:\Workspace\C#\baitap\Lỗi Exception\obj\Debug\net8.0\Lỗi Exception.AssemblyInfo.cs
+D:\Workspace\C#\baitap\Lỗi Exception\obj\Debug\net8.0\Lỗi Exception.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\baitap\Lỗi Exception\obj\Debug\net8.0\Lỗi Exception.sourcelink.json
+D:\Workspace\C#\baitap\Lỗi Exception\obj\Debug\net8.0\Lỗi Exception.dll
+D:\Workspace\C#\baitap\Lỗi Exception\obj\Debug\net8.0\refint\Lỗi Exception.dll
+D:\Workspace\C#\baitap\Lỗi Exception\obj\Debug\net8.0\Lỗi Exception.pdb
+D:\Workspace\C#\baitap\Lỗi Exception\obj\Debug\net8.0\Lỗi Exception.genruntimeconfig.cache
+D:\Workspace\C#\baitap\Lỗi Exception\obj\Debug\net8.0\ref\Lỗi Exception.dll
