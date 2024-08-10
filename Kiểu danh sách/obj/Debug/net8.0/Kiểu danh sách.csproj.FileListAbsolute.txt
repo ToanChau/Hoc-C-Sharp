@@ -1,0 +1,15 @@
+D:\Workspace\C#\baitap\Kiểu danh sách\obj\Debug\net8.0\Kiểu danh sách.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\baitap\Kiểu danh sách\obj\Debug\net8.0\Kiểu danh sách.AssemblyInfoInputs.cache
+D:\Workspace\C#\baitap\Kiểu danh sách\obj\Debug\net8.0\Kiểu danh sách.AssemblyInfo.cs
+D:\Workspace\C#\baitap\Kiểu danh sách\obj\Debug\net8.0\Kiểu danh sách.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\baitap\Kiểu danh sách\obj\Debug\net8.0\Kiểu danh sách.sourcelink.json
+D:\Workspace\C#\baitap\Kiểu danh sách\bin\Debug\net8.0\Kiểu danh sách.exe
+D:\Workspace\C#\baitap\Kiểu danh sách\bin\Debug\net8.0\Kiểu danh sách.deps.json
+D:\Workspace\C#\baitap\Kiểu danh sách\bin\Debug\net8.0\Kiểu danh sách.runtimeconfig.json
+D:\Workspace\C#\baitap\Kiểu danh sách\bin\Debug\net8.0\Kiểu danh sách.dll
+D:\Workspace\C#\baitap\Kiểu danh sách\bin\Debug\net8.0\Kiểu danh sách.pdb
+D:\Workspace\C#\baitap\Kiểu danh sách\obj\Debug\net8.0\Kiểu danh sách.dll
+D:\Workspace\C#\baitap\Kiểu danh sách\obj\Debug\net8.0\refint\Kiểu danh sách.dll
+D:\Workspace\C#\baitap\Kiểu danh sách\obj\Debug\net8.0\Kiểu danh sách.pdb
+D:\Workspace\C#\baitap\Kiểu danh sách\obj\Debug\net8.0\Kiểu danh sách.genruntimeconfig.cache
+D:\Workspace\C#\baitap\Kiểu danh sách\obj\Debug\net8.0\ref\Kiểu danh sách.dll

@@ -1,0 +1,15 @@
+D:\Workspace\C#\baitap\IDisposable\bin\Debug\net8.0\IDisposable.exe
+D:\Workspace\C#\baitap\IDisposable\bin\Debug\net8.0\IDisposable.deps.json
+D:\Workspace\C#\baitap\IDisposable\bin\Debug\net8.0\IDisposable.runtimeconfig.json
+D:\Workspace\C#\baitap\IDisposable\bin\Debug\net8.0\IDisposable.dll
+D:\Workspace\C#\baitap\IDisposable\bin\Debug\net8.0\IDisposable.pdb
+D:\Workspace\C#\baitap\IDisposable\obj\Debug\net8.0\IDisposable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\baitap\IDisposable\obj\Debug\net8.0\IDisposable.AssemblyInfoInputs.cache
+D:\Workspace\C#\baitap\IDisposable\obj\Debug\net8.0\IDisposable.AssemblyInfo.cs
+D:\Workspace\C#\baitap\IDisposable\obj\Debug\net8.0\IDisposable.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\baitap\IDisposable\obj\Debug\net8.0\IDisposable.sourcelink.json
+D:\Workspace\C#\baitap\IDisposable\obj\Debug\net8.0\IDisposable.dll
+D:\Workspace\C#\baitap\IDisposable\obj\Debug\net8.0\refint\IDisposable.dll
+D:\Workspace\C#\baitap\IDisposable\obj\Debug\net8.0\IDisposable.pdb
+D:\Workspace\C#\baitap\IDisposable\obj\Debug\net8.0\IDisposable.genruntimeconfig.cache
+D:\Workspace\C#\baitap\IDisposable\obj\Debug\net8.0\ref\IDisposable.dll

@@ -100,7 +100,7 @@ public class Program
         Vector vt = vt1 + vt2;
         vt[0]=4;
         vt.Info();
-        
+
 
     }
 }

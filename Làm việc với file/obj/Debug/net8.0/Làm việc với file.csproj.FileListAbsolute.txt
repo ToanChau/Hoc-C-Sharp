@@ -1,0 +1,15 @@
+D:\Workspace\C#\baitap\Làm việc với file\bin\Debug\net8.0\Làm việc với file.exe
+D:\Workspace\C#\baitap\Làm việc với file\bin\Debug\net8.0\Làm việc với file.deps.json
+D:\Workspace\C#\baitap\Làm việc với file\bin\Debug\net8.0\Làm việc với file.runtimeconfig.json
+D:\Workspace\C#\baitap\Làm việc với file\bin\Debug\net8.0\Làm việc với file.dll
+D:\Workspace\C#\baitap\Làm việc với file\bin\Debug\net8.0\Làm việc với file.pdb
+D:\Workspace\C#\baitap\Làm việc với file\obj\Debug\net8.0\Làm việc với file.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\baitap\Làm việc với file\obj\Debug\net8.0\Làm việc với file.AssemblyInfoInputs.cache
+D:\Workspace\C#\baitap\Làm việc với file\obj\Debug\net8.0\Làm việc với file.AssemblyInfo.cs
+D:\Workspace\C#\baitap\Làm việc với file\obj\Debug\net8.0\Làm việc với file.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\baitap\Làm việc với file\obj\Debug\net8.0\Làm việc với file.sourcelink.json
+D:\Workspace\C#\baitap\Làm việc với file\obj\Debug\net8.0\Làm việc với file.dll
+D:\Workspace\C#\baitap\Làm việc với file\obj\Debug\net8.0\refint\Làm việc với file.dll
+D:\Workspace\C#\baitap\Làm việc với file\obj\Debug\net8.0\Làm việc với file.pdb
+D:\Workspace\C#\baitap\Làm việc với file\obj\Debug\net8.0\Làm việc với file.genruntimeconfig.cache
+D:\Workspace\C#\baitap\Làm việc với file\obj\Debug\net8.0\ref\Làm việc với file.dll
